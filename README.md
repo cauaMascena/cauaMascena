@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi! I'm Caua and this is my GitHub 😉</h1>
+<h1 align="center">Hi! I'm Cauã and this is my GitHub 🙂</h1>
 
-- 🌱 I’m currently learning Front-end, Back-end web, Mobile.
+- 🌱 in constant learning.
 
 
   
@@ -14,6 +14,7 @@
   <div>
   
 <div style="display: inline_block" align="center"><br>
+  <h5 align="center">GitHub stats:<h5/>
   <img align="center" alt="Caua-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caua-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caua-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,26 +25,12 @@
   </div>
   
  <div align="center"><br> 
-  <h5 align="center">GitHub stats:<h5/>
+  
   <a href = "mailto:cauasinho656@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-mascena-628a66211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div><hr>
 </div>
 
-<!--
-**cauaMascena/cauaMascena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# cauaMascena
+![Snake animation](https://github.com/cauaMascena/cauaMascena/blob/output/github-contribution-grid-snake.svg)
 
