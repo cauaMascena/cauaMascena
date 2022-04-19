@@ -24,6 +24,7 @@
   </div>
   
  <div align="center"><br> 
+  <h5 align="center">GitHub stats:<h5/>
   <a href = "mailto:cauasinho656@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-mascena-628a66211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
